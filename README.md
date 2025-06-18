@@ -42,7 +42,7 @@ This dashboard mirrors the reporting needs of a global **retail/e‑commerce** t
 
 * ✅ **Power Query** for data ingestion, cleansing, and date table generation
 * ✅ **Power BI Star Schema** with dimension & fact tables for speed
-* ✅ **DAX Measures**: Revenue YoY%, Units Var%, RankX Top‑N, Dynamic AOV, Contribution %
+* ✅ **DAX Measures**: Revenue growth, RankX Top‑N, Dynamic AOV, Conversion rate
 * ✅ **Conditional Formatting & Slicers** to surface red flags quickly
 * ✅ Drill‑through & tooltip pages for customer and product detail
 
